@@ -14,17 +14,17 @@ This is my first Flutter project, developed as part of an assignment for the Mob
 
 1. Clone the repository:
    git clone https://github.com/nada-mhmd/Flutter-Book-Management-App.git
-Navigate to the project directory:
-
-cd library-management-flutter
+   Navigate to the project directory:
+   
+   cd library-management-flutter
 
 2.Install dependencies:
-
-flutter pub get
-
-Run the app:
-
-flutter run
+   
+   flutter pub get
+   
+   Run the app:
+   
+   flutter run
 
 
 ## Technologies Used
