@@ -13,7 +13,7 @@ This is my first Flutter project, developed as part of an assignment for the Mob
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/library-management-flutter.git
+   git clone https://github.com/nada-mhmd/Flutter-Book-Management-App.git
 Navigate to the project directory:
 
 cd library-management-flutter
