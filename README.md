@@ -11,22 +11,21 @@ This is my first Flutter project, developed as part of an assignment for the Mob
 - The book counter updates automatically whenever books are added or deleted.
 
 ## Installation
-
 1. Clone the repository:
    git clone https://github.com/nada-mhmd/Flutter-Book-Management-App.git
-   Navigate to the project directory:
-   
+
+2. Navigate to the project directory:
    cd library-management-flutter
 
-2.Install dependencies:
-   
+3. Install dependencies:
    flutter pub get
-   
-   Run the app:
-   
+
+4. Run the app:
    flutter run
 
-
 ## Technologies Used
-Flutter
-Dart
+- Flutter
+- Dart
+
+## License
+This project is licensed under the MIT License.
